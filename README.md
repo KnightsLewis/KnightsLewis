@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is a test to understand the Profile README section on GITHUB
 
 <!--
 **KnightsLewis/KnightsLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
