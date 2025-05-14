@@ -1,5 +1,15 @@
-## Hi there 👋
-This is a test to understand the Profile README section on GITHUB
+## Hello there! 👋
+SQL
+- Microsoft MCSA: SQL 2016 Database Development 70-761: Complete
+  
+Python
+- Python Essentials - PCEP-30-02: Complete
+- Python Essentials 2 - PCEP-31-03: Ongoing
+
+Powershell 
+- General ongoing skill development
+
+Microsoft Azure Fundamentals AZ-900: Complete 
 
 <!--
 **KnightsLewis/KnightsLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
